@@ -1,0 +1,6 @@
+{
+  "name": "FlowDesk - Project Management & Team Collaboration",
+  "description": "Modern, premium project management and team collaboration SaaS platform to plan, collaborate, and ship faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
